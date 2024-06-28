@@ -74,7 +74,7 @@ plt.plot(x_values, y1_values, label='y(p) = (1 - |x|^p)^(1/p)')
 plt.plot(x_values, y2_values, label='y(p) = -(1 - |x|^p)^(1/p)')
 plt.xlabel('x')
 plt.ylabel('y')
-plt.title('Plot of y(p) = (1 - |x|^p)^(1/p) and y(p) = -(1 - |x|^p)^(1/p)')
+plt.title('Unit disk $(|x|^p + |y|^p)^{1/p} = 1$')
 plt.legend()
 plt.grid(True)
 
