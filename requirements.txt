@@ -1,4 +1,4 @@
 numpy
-git+https://github.com/kbidzhiev/pyvectorSDK
+git+https://github.com/kbidzhiev/pyvectorSDK@main
 matplotlib
 json
